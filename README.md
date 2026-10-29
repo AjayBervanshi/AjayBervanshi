@@ -121,5 +121,5 @@ These are **AI-assisted personal projects**, built for experimentation, learning
   &nbsp;&nbsp;
   <a href="mailto:ajay.bervanshi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/AjayBervanshi/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio_OS-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio OS" /></a>
+  <a href="https://ajaybervanshi.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio_OS-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio OS" /></a>
 </div>
